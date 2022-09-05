@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="main_input_hint">Type a value ex: 35.50</string>
+    <string name="logo_description">Two gold coins, one with a dollar on one side</string>
+    <string name="main_text_tip">Tip</string>
+    <string name="main_text_total">Total</string>
+    <string name="main_text_percentage_value" translatable="false">%1$d%%</string>
+    <string name="text_money">$ %1$.2f</string>
+</resources>
